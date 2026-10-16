@@ -1,0 +1,23 @@
+HOW TO PUBLISH YOUR EPORTFOLIO (free, GitHub Pages)
+
+1. Sign in to GitHub and create a new public repository, for example "cet257-eportfolio".
+2. Upload everything in this folder: index.html, the assets folder, the evidence folder
+   (including evidence/pdf) and the .nojekyll file.
+   Tip: on the repository page choose Add file > Upload files and drag the whole contents in.
+3. Open Settings > Pages. Set Source to "Deploy from a branch", choose the main branch and
+   the root folder, then Save.
+4. After a minute your link will be https://YOUR-USERNAME.github.io/cet257-eportfolio/
+5. Open the link and test it on your phone as well as your computer.
+6. Paste the link on the title page of your C1 report, the C2 portfolio and the C3 reflections,
+   and into Canvas.
+
+Before you publish, check these three things:
+- The "Try the prototype" buttons use https://shilustha71-arch.github.io/teamspeed-prototype/
+  (the link in your email of 12 September, E6.6). Open it and confirm it still works.
+- The footer shows your university email address. Open index.html in a text editor and
+  search for "bwit25.slc@ismt.edu.np" if you want to change or remove it.
+- File names are case-sensitive on GitHub Pages. Keep the evidence file names exactly as they are.
+
+You can also open index.html directly on your computer to preview the site.
+The Word evidence files in evidence/ are the originals. The PDFs in evidence/pdf/ were
+converted from them so that visitors can read them in the browser without downloading.
